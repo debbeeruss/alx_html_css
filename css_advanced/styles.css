@@ -1,0 +1,208 @@
+.main-part {
+  position: relative;
+  width: 1440px;
+  height: 1093px;
+  background-image: url(./img/background.png);
+  background-size: 100% 100%;
+}
+
+.main-part .overlap {
+  position: absolute;
+  width: 684px;
+  height: 161px;
+  top: 219px;
+  left: 377px;
+}
+
+.main-part .text-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Source Sans Pro-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 120px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.main-part .div {
+  position: absolute;
+  top: 141px;
+  left: 216px;
+  font-family: "Source Sans Pro-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.main-part .text-wrapper-2 {
+  position: absolute;
+  top: 141px;
+  left: 327px;
+  font-family: "Source Sans Pro-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.main-part .text-wrapper-3 {
+  position: absolute;
+  top: 141px;
+  left: 420px;
+  font-family: "Source Sans Pro-Bold", Helvetica;
+  font-weight: 700;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.main-part .button {
+  all: unset;
+  box-sizing: border-box;
+  position: absolute;
+  width: 162px;
+  height: 44px;
+  top: 419px;
+  left: 639px;
+  overflow: hidden;
+  box-shadow: 0px 2px 20px #00000080;
+}
+
+.main-part .overlap-group {
+  position: relative;
+  width: 164px;
+  height: 46px;
+  top: -1px;
+  left: -1px;
+  background-color: #c170ff;
+  border-radius: 22px;
+}
+
+.main-part .text-wrapper-4 {
+  position: absolute;
+  top: 13px;
+  left: 21px;
+  font-family: "Source Sans Pro-Semibold", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 14px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.main-part .learn-from-the-pros {
+  position: absolute;
+  top: 630px;
+  left: 604px;
+  font-family: "Source Sans Pro-Bold", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 32px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.main-part .span {
+  font-weight: 700;
+  color: #c170ff;
+}
+
+.main-part .text-wrapper-5 {
+  font-weight: 700;
+  color: #ffffff;
+}
+
+.main-part .text-wrapper-6 {
+  font-family: "Source Sans Pro-Light", Helvetica;
+  font-weight: 300;
+  color: #ffffff;
+}
+
+.main-part .pros {
+  position: absolute;
+  width: 1009px;
+  height: 237px;
+  top: 758px;
+  left: 217px;
+}
+
+.main-part .pro {
+  position: absolute;
+  width: 150px;
+  height: 237px;
+  top: 0;
+  left: 859px;
+}
+
+.main-part .text-wrapper-7 {
+  position: absolute;
+  width: 150px;
+  top: 159px;
+  left: 0;
+  font-family: "Source Sans Pro-Black", Helvetica;
+  font-weight: 900;
+  color: #ffffff;
+  font-size: 18px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 27px;
+}
+
+.main-part .text-wrapper-8 {
+  position: absolute;
+  width: 150px;
+  top: 188px;
+  left: 0;
+  font-family: "Source Sans Pro-Italic", Helvetica;
+  font-weight: 400;
+  font-style: italic;
+  color: #ffffff;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0;
+  line-height: 24px;
+}
+
+.main-part .avatar {
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  top: 0;
+  left: 0;
+}
+
+.main-part .pro-2 {
+  position: absolute;
+  width: 150px;
+  height: 237px;
+  top: 0;
+  left: 570px;
+}
+
+.main-part .pro-3 {
+  position: absolute;
+  width: 150px;
+  height: 237px;
+  top: 0;
+  left: 289px;
+}
+
+.main-part .pro-4 {
+  position: absolute;
+  width: 150px;
+  height: 237px;
+  top: 0;
+  left: 0;
+}
